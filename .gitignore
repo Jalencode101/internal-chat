@@ -24,3 +24,20 @@ yarn-error.log*
 internal-chat-linux
 internal-chat-macos
 internal-chat-win.exe
+
+# Clacky-related configuration
+.1024*
+!.1024
+.breakpoints
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Browser-sync
+.browser-sync/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
